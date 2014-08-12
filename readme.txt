@@ -14,6 +14,14 @@ how to generate a video with NEURON and as a crude example of action potential
 propagation.
 
 
+Two versions are available, executible via:
+
+    python runme.py
+    python runme2.py
+
+The second is a shorter simulation with rotation and non-constant dendrite diameters.
+
+
 
 
 This simulation uses the Dentate Gyrus Granule Cell n275 from
